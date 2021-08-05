@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @filiphegedus
+- 👀 I’m interested in HTML, CSS, JavaScript, JAVA, Python
+- 🌱 I’m currently learning JAVA
+- 📫 How to reach me filip@nicguys.sk
